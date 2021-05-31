@@ -1,0 +1,48 @@
+body{
+	color: white;
+}
+.navbar,footer{
+	background-color: #5b6b5f;
+}
+#about {
+	background-color: #809285;
+}
+#skill {
+	background-color: #9caa9f;
+}
+#projects{
+	background-color: #809285;
+}
+.card{
+	background-color: #9caa9f;
+}
+#contact{
+	background-color: #9caa9f;
+}
+.btn{
+	background-color: #505d53;
+}
+.sosial-media{
+	letter-spacing: 20px;
+}
+footer{
+	box-shadow: 0 -10px 10px #888888;
+}
+section{
+	padding-top: 6rem;
+}
+.card{
+	border: 1px solid #9caa9f;
+}
+.html-color{
+	color: #FF5733;
+}
+.boostrap-color{
+	color: #563d7c;
+}
+.css-color{
+	color: skyblue;
+}
+.js-color{
+	color: #F0DB4F;
+}
