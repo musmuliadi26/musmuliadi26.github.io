@@ -1,26 +1,26 @@
 body{
 	color: white;
 }
-.navbar,footer{
-	background-color: #5b6b5f;
+.navbar,footer, .btn{
+	background-color:#192428;
+}
+.penghalang{
+	height: 300px;
 }
 #about {
-	background-color: #809285;
+	background-color:#2d383c;
 }
 #skill {
-	background-color: #9caa9f;
+	background-color:#414c50;
 }
 #projects{
-	background-color: #809285;
+	background-color:#2d383c;
 }
 .card{
-	background-color: #9caa9f;
+	background-color:#414c50;
 }
 #contact{
-	background-color: #9caa9f;
-}
-.btn{
-	background-color: #505d53;
+	background-color:#414c50;
 }
 .sosial-media{
 	letter-spacing: 20px;
@@ -32,13 +32,13 @@ section{
 	padding-top: 6rem;
 }
 .card{
-	border: 1px solid #9caa9f;
+	border: 1px solid #414c50;
 }
 .html-color{
 	color: #FF5733;
 }
 .boostrap-color{
-	color: #563d7c;
+	color:#9147fe;
 }
 .css-color{
 	color: skyblue;
