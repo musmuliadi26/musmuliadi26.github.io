@@ -1,41 +1,29 @@
 body{
 	color: white;
 }
-.navbar,footer, .btn{
+.navbar, footer{
 	background-color:#192428;
 }
 .penghalang{
 	height: 300px;
 }
-#hello {
+#hello, #skill, #contact {
 	background-color:#2d383c;
 }
-#about {
-	background-color:#414c50;
-}
-#skill {
-	background-color:#2d383c;
-}
-#projects{
+#about, #projects {
 	background-color:#414c50;
 }
 .card{
-	background-color:#2d383c;
-}
-#contact{
 	background-color:#2d383c;
 }
 .sosial-media{
 	letter-spacing: 20px;
 }
-footer{
-	box-shadow: 0 -10px 10px #888888;
-}
 section{
 	padding-top: 6rem;
 }
 .card{
-	border: 1px solid #414c50;
+	border: 4px solid #2d383c;
 }
 .html-color{
 	color: #FF5733;
@@ -48,4 +36,7 @@ section{
 }
 .js-color{
 	color: #F0DB4F;
+}
+.git-color {
+	color: #F1502F;
 }
