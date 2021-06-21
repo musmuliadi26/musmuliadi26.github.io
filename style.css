@@ -7,20 +7,23 @@ body{
 .penghalang{
 	height: 300px;
 }
-#about {
+#hello {
 	background-color:#2d383c;
+}
+#about {
+	background-color:#414c50;
 }
 #skill {
-	background-color:#414c50;
-}
-#projects{
 	background-color:#2d383c;
 }
-.card{
+#projects{
 	background-color:#414c50;
 }
+.card{
+	background-color:#2d383c;
+}
 #contact{
-	background-color:#414c50;
+	background-color:#2d383c;
 }
 .sosial-media{
 	letter-spacing: 20px;
