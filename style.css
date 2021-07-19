@@ -7,23 +7,25 @@ body{
 .penghalang{
 	height: 300px;
 }
-#hello, #skill, #contact {
+#hello, #skill, #blog {
 	background-color:#2d383c;
 }
-#about, #projects {
+#about, #projects, #contact {
 	background-color:#414c50;
 }
-.card{
-	background-color:#2d383c;
+.card-blog{
+	border: 4px solid #414c50;
+	background-color: #414c50;
+}
+.card-projects{
+	border: 4px solid #2d383c;
+	background-color: #2d383c;
 }
 .sosial-media{
 	letter-spacing: 20px;
 }
 section{
 	padding-top: 6rem;
-}
-.card{
-	border: 4px solid #2d383c;
 }
 .html-color{
 	color: #FF5733;
