@@ -20,6 +20,11 @@ body{
 .card-projects{
 	border: 4px solid #2d383c;
 	background-color: #2d383c;
+	transition: 0.5s;
+}
+.card-projects:hover{
+	margin-top: -10px;
+	margin-bottom: 10px;
 }
 .sosial-media{
 	letter-spacing: 20px;
