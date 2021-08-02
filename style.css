@@ -14,8 +14,8 @@ body{
 	background-color:#414c50;
 }
 .card-blog{
-	border: 4px solid #414c50;
-	background-color: #414c50;
+	background-color:#2d383c;
+	border: 0;
 }
 .card-projects{
 	border: 4px solid #2d383c;
@@ -32,6 +32,30 @@ body{
 section{
 	padding-top: 6rem;
 }
+.html-st, .boostrap-st, .git-st, .css-st, .js-st{
+	transform: rotate(15deg);
+	transition: 0.5s;
+}
+.html-st:hover{
+	transform: rotate(0deg);
+	color: #FF5733;
+}
+.boostrap-st:hover{
+	transform: rotate(0deg);
+	color:#9147fe;
+}
+.css-st:hover{
+	transform: rotate(0deg);
+	color: skyblue;
+}
+.js-st:hover{
+	transform: rotate(0deg);
+	color: #F0DB4F;
+}
+.git-st:hover{
+	transform: rotate(0deg);
+	color: #F1502F;
+}
 .html-color{
 	color: #FF5733;
 }
@@ -44,6 +68,6 @@ section{
 .js-color{
 	color: #F0DB4F;
 }
-.git-color {
+.git-color{
 	color: #F1502F;
 }
