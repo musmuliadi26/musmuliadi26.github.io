@@ -4,6 +4,9 @@ body{
 .navbar, footer{
 	background-color:#192428;
 }
+section{
+	padding-top: 6rem;
+}
 .penghalang{
 	height: 300px;
 }
@@ -29,11 +32,8 @@ body{
 .sosial-media{
 	letter-spacing: 20px;
 }
-section{
-	padding-top: 6rem;
-}
 .html-st, .boostrap-st, .git-st, .css-st, .js-st{
-	transform: rotate(15deg);
+	transform: rotate(10deg);
 	transition: 0.5s;
 }
 .html-st:hover{
@@ -70,4 +70,72 @@ section{
 }
 .git-color{
 	color: #F1502F;
+}
+.bi-github, .fa-instagram, .bi-linkedin, .fa-twitter{
+	color: white;
+	transition: 0.5s;
+}
+.bi-github:hover{
+	color: #192428;
+}
+.fa-instagram:hover{
+	color: #C13584;
+}
+.bi-linkedin:hover{
+	color: #2867B2;
+}
+.fa-twitter:hover{
+	color: #1DA1F2;
+}
+
+/* ================breakpoints======================== */
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+		
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+	
+}
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (max-width: 992px) {
+	.html-st, .boostrap-st, .git-st, .css-st, .js-st{
+	transform: rotate(0deg);
+	}
+	.html-st{
+		color: #FF5733;
+	}
+	.boostrap-st{
+		color:#9147fe;
+	}
+	.css-st{
+		color: skyblue;
+	}
+	.js-st{
+		color: #F0DB4F;
+	}
+	.git-st{
+		color: #F1502F;
+	}
+	.bi-github{
+	color: #192428;
+}
+.fa-instagram{
+	color: #C13584;
+}
+.bi-linkedin{
+	color: #2867B2;
+}
+.fa-twitter{
+	color: #1DA1F2;
+}
+}
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
 }
