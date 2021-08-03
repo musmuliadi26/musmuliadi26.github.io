@@ -124,16 +124,16 @@ section{
 	}
 	.bi-github{
 	color: #192428;
-}
-.fa-instagram{
-	color: #C13584;
-}
-.bi-linkedin{
-	color: #2867B2;
-}
-.fa-twitter{
-	color: #1DA1F2;
-}
+	}
+	.fa-instagram{
+		color: #C13584;
+	}
+	.bi-linkedin{
+		color: #2867B2;
+	}
+	.fa-twitter{
+		color: #1DA1F2;
+	}
 }
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
