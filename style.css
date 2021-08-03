@@ -26,8 +26,8 @@ section{
 	transition: 0.5s;
 }
 .card-projects:hover{
-	margin-top: -10px;
-	margin-bottom: 10px;
+	margin-top: -5px;
+	margin-bottom: 5px;
 }
 .sosial-media{
 	letter-spacing: 20px;
@@ -76,7 +76,7 @@ section{
 	transition: 0.5s;
 }
 .bi-github:hover{
-	color: #192428;
+	color: #000;
 }
 .fa-instagram:hover{
 	color: #C13584;
@@ -123,7 +123,7 @@ section{
 		color: #F1502F;
 	}
 	.bi-github{
-	color: #192428;
+		color: #000;
 	}
 	.fa-instagram{
 		color: #C13584;
