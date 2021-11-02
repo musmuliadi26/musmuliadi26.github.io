@@ -8,6 +8,10 @@ body{
 .navbar, footer{
 	background-color:#192428;
 }
+.navbar-toggler:focus, .navbar-toggler:active, .navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+}
 section{
 	padding-top: 6rem;
 }
