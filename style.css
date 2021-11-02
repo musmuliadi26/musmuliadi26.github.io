@@ -98,6 +98,10 @@ section{
 .bi-facebook:hover{
 	color: #3b5998;
 }
+.btn:focus, .btn:active, .btn:focus {
+    outline: none;
+    box-shadow: none;
+}
 
 /* ================breakpoints======================== */
 
