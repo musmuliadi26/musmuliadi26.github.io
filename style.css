@@ -1,8 +1,8 @@
 /*google font*/
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Trispace:wght@300&display=swap');
 
 body{
-	font-family: 'Space Mono', monospace;
+	font-family: 'Trispace', monospace;
 	color: white;
 }
 .navbar, footer{
