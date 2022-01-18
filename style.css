@@ -6,7 +6,7 @@ body{
 	color: white;
 }
 .navbar, footer{
-	background-color:#192428;
+	background-color:#15202b;
 }
 .navbar-toggler:focus, .navbar-toggler:active, .navbar-toggler-icon:focus {
     outline: none;
@@ -19,18 +19,18 @@ section{
 	height: 300px;
 }
 #hello, #skill, #blog {
-	background-color:#2d383c;
+	background-color:#192734;
 }
 #about, #projects, #contact {
-	background-color:#414c50;
+	background-color:#22303c;
 }
 .card-blog{
-	background-color:#2d383c;
+	background-color:#192734;
 	border: 0;
 }
 .card-projects{
-	border: 4px solid #2d383c;
-	background-color: #2d383c;
+	border: 4px solid #192734;
+	background-color: #192734;
 	transition: 0.5s;
 }
 .card-projects:hover{
